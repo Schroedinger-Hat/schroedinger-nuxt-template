@@ -1,6 +1,10 @@
 # Changelog
 
 
+## v2.1.0
+
+[compare changes](https://github.com/Schroedinger-Hat/schroedinger-nuxt-template/compare/v0.1.0...v2.1.0)
+
 ## v0.1.0
 
 [compare changes](https://github.com/Schroedinger-Hat/schroedinger-nuxt-template/compare/v1.0.0...v0.1.0)
