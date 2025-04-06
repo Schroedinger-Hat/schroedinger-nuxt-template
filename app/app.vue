@@ -1,4 +1,3 @@
 <template>
   <SHWelcome />
-  <CtaColorMode />
 </template>
