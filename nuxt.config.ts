@@ -13,6 +13,7 @@ export default defineNuxtConfig({
     'shadcn-nuxt',
     '@nuxt/icon',
     'nuxt-svgo',
+    '@nuxt/fonts',
   ],
   colorMode: {
     classSuffix: '',
