@@ -8,9 +8,11 @@
     "baseColor": "zinc",
     "cssVariables": true
   },
-  "framework": "nuxt",
   "aliases": {
     "components": "@/components",
+    "composables": "@/composables",
+    "lib": "@/lib",
+    "ui": "@/components/ui",
     "utils": "@/lib/utils"
   }
 }
